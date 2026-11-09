@@ -36,10 +36,9 @@
     "distributions": [
         {
             "formats": [
-                "ZIP",
-                "GIF"
+                "ZIP"
             ],
-            "size": 7.8,
+            "size": 5.8,
             "unit": {
                 "value": "MB"
             },
@@ -49,8 +48,29 @@
                     {
                         "value": "public"
                     }
-                ]
-            }
+                ],
+                "accessURL": "https://zenodo.org/records/3675442/files/VFA-T1_NIST.zip?download=1"
+            },
+            "title": "VFA-T1_NIST.zip"
+        },
+        {
+            "formats": [
+                "GIF"
+            ],
+            "size": 2.0,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/3675442",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ],
+                "accessURL": "https://zenodo.org/records/3675442/files/Figure-1.gif?download=1"
+            },
+            "title": "Figure-1.gif"
         }
     ],
     "extraProperties": [
